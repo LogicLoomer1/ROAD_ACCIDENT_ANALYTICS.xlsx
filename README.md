@@ -31,9 +31,8 @@ This project presents an Excel-based dashboard to analyze road accident data and
 ---
 
 ## 📸 Dashboard Preview
-
-*(You can add a screenshot here once uploaded)*  
-![Dashboard Preview]("C:\Users\rishu\OneDrive\Desktop\Projects Data Analysis\road_analytics_dashboard.png")
+  
+("C:\Users\rishu\OneDrive\Desktop\Projects Data Analysis\road_analytics_dashboard.png")
 
 ---
 
