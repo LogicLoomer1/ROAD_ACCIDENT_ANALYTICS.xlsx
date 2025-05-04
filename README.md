@@ -32,7 +32,7 @@ This project presents an Excel-based dashboard to analyze road accident data and
 
 ## 📸 Dashboard Preview
   
-(https://github.com/LogicLoomer1/ROAD_ACCIDENT_ANALYTICS.xlsx)
+(https://drive.google.com/file/d/1jqs5vdY90qWxfUz3YLmB66JmbrHNhA6l/view?usp=sharing)
 
 ---
 
